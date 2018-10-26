@@ -1,0 +1,1 @@
+exports.PETS_COLLECTION = "pet"
